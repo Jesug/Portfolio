@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.28ad321b.css",
-    "main.js": "/My-Portfolio/static/js/main.9a534560.js",
+    "main.js": "/My-Portfolio/static/js/main.57982f8b.js",
     "static/media/fadeb.png": "/My-Portfolio/static/media/fadeb.e0efed87d1e0a84a6934.png",
     "static/media/E-commerce.png": "/My-Portfolio/static/media/E-commerce.c927acae60aec4756f15.png",
+    "static/media/JesugCV.pdf": "/My-Portfolio/static/media/JesugCV.7746df38ffbdd7399dc1.pdf",
     "static/media/FineDining.png": "/My-Portfolio/static/media/FineDining.b32904ef9d9c6d8e3bbf.png",
     "static/media/me2.png": "/My-Portfolio/static/media/me2.352056d6a49ca154b5c8.png",
     "static/media/cartoon.jpg": "/My-Portfolio/static/media/cartoon.26e3a2adba9964173153.jpg",
-    "static/media/RESUME.JESUGBEMISOLA.pdf": "/My-Portfolio/static/media/RESUME.JESUGBEMISOLA.ff259d3948867ed678e9.pdf",
     "index.html": "/My-Portfolio/index.html",
     "main.28ad321b.css.map": "/My-Portfolio/static/css/main.28ad321b.css.map",
-    "main.9a534560.js.map": "/My-Portfolio/static/js/main.9a534560.js.map"
+    "main.57982f8b.js.map": "/My-Portfolio/static/js/main.57982f8b.js.map"
   },
   "entrypoints": [
     "static/css/main.28ad321b.css",
-    "static/js/main.9a534560.js"
+    "static/js/main.57982f8b.js"
   ]
 }
